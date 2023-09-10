@@ -1,0 +1,13 @@
+.navbar{
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 0;
+}
+.link{
+   background:linear-gradient(#2A00B7,#42006C);
+    border-radius:5px ;
+    color: #fff;
+    padding: 10px;
+}
